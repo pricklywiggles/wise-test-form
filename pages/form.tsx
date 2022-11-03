@@ -44,4 +44,4 @@ const TwForm = () => {
   );
 };
 
-export { TwForm };
+export default TwForm;
